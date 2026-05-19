@@ -1,0 +1,4 @@
+repo=OrMizrahi12/argus-wgs-movers-26-rishon-lezion-0e5eac-concept
+cleared_at_utc=2026-05-19T09:08:40.345950+00:00
+action=disable_pages_and_force_push_minimal_main
+protocol=WGS
